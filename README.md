@@ -12,5 +12,5 @@ For reproducing our results:
 ```
 - Evaluate the results:
 ```
-    ScoreAll.sh Test
+    bash ./ScoreAll.sh Test
 ```
