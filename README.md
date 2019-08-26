@@ -1,5 +1,7 @@
 # QWSD
-Code and data for the paper "A Quantum-like approach to Word Sense Disambiguation" at RANLP2019
+Code and data for the paper "A Quantum-like approach to Word Sense Disambiguation" at RANLP2019.
+
+For reproducing our results:
 
 - Clone the repository
 - Download complex embeddings from http://corpora.ficlit.unibo.it/UploadDIR/TestX9c.bin
