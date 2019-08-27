@@ -14,4 +14,4 @@ For reproducing our results:
 ```
     bash ./ScoreAll.sh Test
 ```
-In case of problems contact me at [mailto](fabio.tamburini@unibo.it).
+In case of problems contact me at <fabio.tamburini@unibo.it>.
