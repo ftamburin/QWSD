@@ -2,6 +2,14 @@
 Code and data for the paper "A Quantum-like approach to Word Sense Disambiguation" at
 [RANLP2019](http://lml.bas.bg/ranlp2019/).
 
+Tested using:
+
+- Python 3.6.3
+- Numpy 1.15.4
+- Scipy 0.19.1
+- NLTK 3.2.5
+- lxml 4.3.0
+
 For reproducing our results:
 
 - Clone the repository.
